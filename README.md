@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I am a Japanese high school student interested in programming in Python.
+- 🌱 I’m currently learning Python programming
+- ⚡ Fun fact: Listening to HIP-HOP music
 <!--
 **keindev2025/keindev2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
